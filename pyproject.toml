@@ -10,7 +10,8 @@ requires-python = ">=3.10,<4.0"
 dependencies = [
     "jupyter-ai[all] (>=2.31.6,<3.0.0)",
     "ipykernel>=6.0.0",
-    "jupyterlab (>=4.4.10,<5.0.0)"
+    "jupyterlab (>=4.4.10,<5.0.0)",
+    "runcell (>=0.1.13,<0.2.0)"
 ]
 
 
